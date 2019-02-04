@@ -1,8 +1,8 @@
 #sanjith
 x=int(input())
 if x>0:
-print("posi")
+  print("posi")
 elif x<0:
-print("nega")
+  print("nega")
 else:
-print("zero")
+  print("zero")
