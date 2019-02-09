@@ -7,6 +7,6 @@ if x%4==0:
 		else:
 			print("no")
 	else:
-		print("yess")
+		print("yes")
 else:
-	print("not")
+	print("no")
